@@ -1,2 +1,8 @@
 MY NAME IS SAMEER.I AM A STUDENT OF  FAST UNIVERSITY
 I LOVE TO LEARNING  PROGRAMMING.AND I  REALY  ENJOY IT.
+#MY  PROJECT
+1. Step one
+1. Step two
+1. Step three
+**_This is both bold and italic_**
+
